@@ -1,0 +1,48 @@
+html {
+	height: 100%;
+}
+
+body {
+	background: black; 
+}
+
+div.header {
+	font-family: 'Roboto', sans-serif;
+	background-color: white;
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+p.lead {
+	text-align: left;
+	color: white;
+}
+
+div.block {
+	display: block;
+	vertical-align: center;
+}
+
+div.white {
+	background-color: #fff;
+}
+
+div.darkblue {
+	background-color: #040021;
+}
+
+div.grey {
+	background-color: #C8C8C8;
+}
+
+div.lightblue {
+	background-color: #4A466B;
+}
+
+div.footer {
+	background-color: white;
+	text-align: center;
+}
