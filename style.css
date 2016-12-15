@@ -22,13 +22,15 @@ h2 {
 }
 
 p.lead {
+	font-size: 18px;
 	text-align: left;
 	color: white;
 }
 
 div.block {
 	display: block;
-	vertical-align: center;
+	width: 60%;
+	margin: 0 auto;
 }
 
 div.white {
